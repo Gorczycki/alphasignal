@@ -22,7 +22,7 @@
 #include <format>
 
 
-// Alphavantage API: O0WO3FXT6S62ZZEG
+// Alphavantage API:
 
 // curl 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=COP&apikey=O0WO3FXT6S62ZZEG&datatype=csv' -o Conocodata2.csv
 // curl 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=CVX&apikey=O0WO3FXT6S62ZZEG&datatype=csv' -o Chevrondata2.csv
