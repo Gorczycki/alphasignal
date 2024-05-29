@@ -24,11 +24,11 @@
 
 // Alphavantage API:
 
-// curl 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=COP&apikey=O0WO3FXT6S62ZZEG&datatype=csv' -o Conocodata2.csv
-// curl 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=CVX&apikey=O0WO3FXT6S62ZZEG&datatype=csv' -o Chevrondata2.csv
-// curl 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=TTE&apikey=O0WO3FXT6S62ZZEG&datatype=csv' -o Totalenergiesdata2.csv
-// curl 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=XOM&apikey=O0WO3FXT6S62ZZEG&datatype=csv' -o Exxondata2.csv
-// curl 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=SHEL&apikey=O0WO3FXT6S62ZZEG&datatype=csv' -o Shelldata2.csv
+// curl 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=COP&apikey=&datatype=csv' -o Conocodata2.csv
+// curl 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=CVX&apikey=&datatype=csv' -o Chevrondata2.csv
+// curl 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=TTE&apikey=&datatype=csv' -o Totalenergiesdata2.csv
+// curl 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=XOM&apikey=&datatype=csv' -o Exxondata2.csv
+// curl 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=SHEL&apikey=&datatype=csv' -o Shelldata2.csv
 
 
 // Create volume function to take note when daily volume may veer to a low or high
